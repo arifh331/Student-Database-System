@@ -23,7 +23,7 @@ public class StudentDataBaseApp {
 			System.err.println("This is not a number! Please input a number value!");
 			bob.next();
 			continue;
-			
+			//Error handling
 		 }
 		}
 		System.out.println("There are "+numbs+" students in this class."
